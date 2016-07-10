@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding:0;
+}
+#container{
+	width: 960 px;
+	margin: 0 auto;
+}
+top img{
+	display:inline-block;
+	margin-top: 20px;
+}
+#top img{
+	display:inline-block;
+	
+}
+#top li{
+	display:inline-block;
+	text-align:left;
+	font-size: 1.25em;
+}
+#left{
+	width: 380px;
+	height: 400px;
+	display:inline-block;
+	margin: 20px;
+}
+#right{
+	width: 500px;
+	height: 400 px;
+	display:inline-block;
+	margin: 20px;
+	
+}
+#content{
+	background-color: #000000;
+}
+h3{
+	border-style:inset;
+	background-color: yellow;
+}
+.subcontent{
+	width: 250px;
+	height: auto;
+	display:inline-block;
+}
